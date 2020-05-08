@@ -1,4 +1,4 @@
-4- Extracción de las tablas de la situación diaria de la enfermedad por el coronavirus (COVID-19) en España en un formato accesible y reutilizable.Datos actualizados diariamente según el calendario y ritmo de publicación del Ministerio de Sanidad.
+5- Extracción de las tablas de la situación diaria de la enfermedad por el coronavirus (COVID-19) en España en un formato accesible y reutilizable.Datos actualizados diariamente según el calendario y ritmo de publicación del Ministerio de Sanidad.
 
 Fuente de los datos: Ministerio de Sanidad, Consumo y Bienestar Social https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm
 
